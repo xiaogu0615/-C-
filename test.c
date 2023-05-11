@@ -2,10 +2,10 @@
 #include <stdio.h>
 //int main()
 //{
-//	int age = 20;//±äÁ¿£¬intÀàĞÍageÊÇ±äÁ¿Ãû
-//	//´´½¨±äÁ¿Ê±³õÊ¼»¯;
-//	double weight = 75.3;
-//	//¿É¸Ä
+//	int age = 20;//å˜é‡ï¼Œintç±»å‹ageæ˜¯å˜é‡å
+//	//åˆ›å»ºå˜é‡æ—¶åˆå§‹åŒ–;
+//  double weight = 75.3;
+//	//å¯æ”¹
 //	age = age + 1;
 //	weight = weight - 10;
 //	printf("%d\n", age);
@@ -13,10 +13,10 @@
 //
 //	return 0;
 //}
-//int a = 100;//È«¾Ö±äÁ¿
+//int a = 100;//å…¨å±€å˜é‡
 //int main()
 //{
-//	int a = 10;//¾Ö²¿±äÁ¿
+//	int a = 10;//å±€éƒ¨å˜é‡
 //	printf("%d", a);
 //	return 0;
 //}
